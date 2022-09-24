@@ -1,6 +1,6 @@
 resources:
 # used by all
-# - ace-config-barauth.yaml
+- ace-config-barauth.yaml
 
 # used by mqapiprem, mqapidflt, fwdmqevnt, backend - accessing MQ
 - ace-config-policy-mq.yaml
